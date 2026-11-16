@@ -12946,7 +12946,7 @@ _.ch="arsimet"
 _.CW="carnot"
 _.cx="fourier"
 _.cy=a
-_.db="system"
+_.db="light"
 _.fy=_.fx=_.fr=_.dy=_.dx=""
 _.k2=_.k1=_.id=_.go=!1
 _.k3=""
@@ -62319,7 +62319,7 @@ o.cx=k.$2("charH","fourier")
 s=t.N
 o.cy=j.$2("chars",A.cE(["arsimet"],s))
 o.p4=j.$2("badges",A.ay(s))
-o.db=k.$2("themeMode","system")
+o.db=k.$2("themeMode","light")
 o.dx=k.$2("firstName","")
 o.dy=k.$2("lastName","")
 o.fr=k.$2("email","")
